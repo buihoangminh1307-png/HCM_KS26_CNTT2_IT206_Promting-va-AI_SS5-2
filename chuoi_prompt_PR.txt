@@ -1,0 +1,46 @@
+CHUỖI PROMPT VIẾT BÀI PR AI CHATBOT
+ 
+Giọng văn cả bài: chuyên nghiệp, tin cậy. Bài dài khoảng 1000 - 1500 từ.
+ 
+ 
+PROMPT 1: TÌM KHÁCH HÀNG VÀ NỖI ĐAU
+ 
+Hãy cho biết khách hàng mục tiêu của AI Chatbot cho doanh nghiệp và liệt kê 5 nỗi đau (pain points) mà sản phẩm giải quyết. Hãy suy nghĩ từng bước một.
+Trả lời theo mẫu:
+Khách hàng: ...
+P1: ...
+P2: ...
+P3: ...
+P4: ...
+P5: ...
+ 
+ 
+PROMPT 2: LẬP DÀN Ý
+ 
+Đây là kết quả Prompt 1: (dán kết quả Prompt 1 vào đây)
+Dựa vào đó, hãy lập dàn ý bài PR gồm: Headline, Lead, các tiêu đề H2, H3 và CTA. Mỗi nỗi đau phải có trong dàn ý. Chọn 1 từ khóa chính cho SEO.
+Trả lời theo mẫu:
+Từ khóa: ...
+Headline: ...
+Lead: ...
+H2-1: ... (H3: ...)
+H2-2: ... (H3: ...)
+H2-3: ... (H3: ...)
+CTA: ...
+ 
+ 
+PROMPT 3: VIẾT BÀI
+ 
+Đây là dàn ý Prompt 2: (dán dàn ý vào đây)
+Hãy viết bài PR hoàn chỉnh theo đúng dàn ý, dài 1000 - 1500 từ. Dùng # cho Headline, ## cho H2, ### cho H3. Có từ khóa chính trong Headline và Lead, có CTA ở cuối. Giữ giọng chuyên nghiệp, tin cậy từ đầu đến cuối.
+ 
+ 
+KHI AI BỊ NGẮT GIỮA CHỪNG
+ 
+Bài viết bị ngắt. Câu cuối bạn viết là: '(dán câu cuối bị cụt)'. Hãy viết tiếp ngay từ chỗ đó, không viết lại phần cũ. Giữ nguyên giọng chuyên nghiệp, tin cậy và viết đến hết CTA.
+ 
+ 
+SƠ ĐỒ
+ 
+Prompt 1 (nỗi đau) --> Prompt 2 (dàn ý) --> Prompt 3 (bài PR)
+Kết quả bước trước là đầu vào bắt buộc của bước sau.
